@@ -1,8 +1,8 @@
-# Mixed Messages
+#Mixed Messages
 This is a Codeacademy project that generates random messages.
 
 ## Table of Contents
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 - [Technologies](#Technologies)
 - [Launch](#Launch)
 - Sources(#Sources)
@@ -20,4 +20,3 @@ Example: C:\Users\RandomUser\Mixed_Messages> node .\script.js
 
 ## Sources
 https://www.codecademy.com
- 
