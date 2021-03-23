@@ -1,8 +1,8 @@
-#Mixed Messages
+# Mixed Messages
 This is a Codeacademy project that generates random messages.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Technologies](#Technologies)
 - [Launch](#Launch)
 - Sources(#Sources)
