@@ -5,7 +5,7 @@ This is a Codeacademy project that generates random messages.
 - [Introduction](#Introduction)
 - [Technologies](#Technologies)
 - [Launch](#Launch)
-- Sources(#Sources)
+- [Sources](#Sources)
 
 ## Introduction
 Mixed Messages, is a JS terminal app. It chooses between food, activity, sports and just prints out what to do.
